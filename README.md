@@ -1,17 +1,38 @@
- Simulador Bancário
- 
-Aplicação web simples que simula operações bancárias como depósito, saque e controle de saldo.
+# Simulador de Conta Digital
+
+Este projeto é um simulador simples de conta bancária desenvolvido com *HTML, CSS e JavaScript puro*.  
+Ele permite criar uma conta, realizar depósitos, saques e visualizar o histórico de transações.
+
+O objetivo do projeto é praticar manipulação do DOM, eventos e lógica de programação em JavaScript.
+
+
 
 ## Tecnologias utilizadas
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
 
-## Funcionalidades
-- Depósito de valores
-- Saque de valores
-- Atualização do saldo
-- Validação de operações
+
+
+##  Funcionalidades
+
+- Criar conta com nome do titular
+- Visualizar saldo da conta
+- Realizar depósitos
+- Realizar saques
+- Validação de valores inválidos
+- Exibir histórico de transações
+- Mostrar data e hora de cada operação
+
+
 
 ## Objetivo do projeto
-Projeto desenvolvido para praticar lógica de programação e manipulação do DOM com JavaScript.
+
+Este projeto foi desenvolvido como prática de programação para aprender:
+
+- Manipulação do DOM
+- Eventos em JavaScript
+- Estruturação de projetos front-end
+- Lógica de operações financeiras básicas
+
